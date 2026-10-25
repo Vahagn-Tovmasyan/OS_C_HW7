@@ -102,3 +102,7 @@ Idle CPU and unsorted arrival times:
 Both algorithms idle from 0 to 2 and from 5 to 10.  
 FCFS order: P2, P1, P3. SJF order: P2, P3, P1.
 
+## Example input/output on my Machine
+
+<img width="538" height="424" alt="image" src="https://github.com/user-attachments/assets/1aa2bff3-03ca-4b7b-aef9-6eb09d9ff489" />
+
